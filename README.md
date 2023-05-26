@@ -1,5 +1,5 @@
-# vasanthabalaji
+# Vasanthabalaji
 Personal Portfolio
 
-☁️Cloud💻Technology
+#☁️Cloud💻Technology
 🪪Information🔐Security
